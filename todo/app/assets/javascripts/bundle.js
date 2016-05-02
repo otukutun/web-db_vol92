@@ -1,0 +1,1 @@
+console.error("Error: Cannot find module '/Users/otukutun_/works/WDP92_NewComerTutorial/todo/app/assets/javascripts/app.js' from '/Users/otukutun_/works/WDP92_NewComerTutorial/todo'");
